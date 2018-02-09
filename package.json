@@ -1,0 +1,22 @@
+{
+  "name": "hello-ice2",
+  "version": "1.0.0",
+  "description": "hello ice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panacholn/hello-ice2.git"
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "Panacholn Pongsamrithphol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/panacholn/hello-ice2/issues"
+  },
+  "homepage": "https://github.com/panacholn/hello-ice2#readme"
+}
